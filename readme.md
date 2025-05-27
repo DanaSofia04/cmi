@@ -18,7 +18,7 @@ Pipo es un pequeño monstruo que disfruta de la vida junto a su mejor amiga Lila
 
 **Logotipo:**
 
-![Logotipo de Pipo](logo_pipo.gif)
+<img src="logo_pipo.gif" alt="Logotipo de Pipo" width="500" />
 
 Un logo creado con todos los personajes del videojuego!
 
