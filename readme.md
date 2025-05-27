@@ -76,7 +76,7 @@ Desde el Menú, al iniciar el juego, se entra a la escena Juego1, donde el jugad
 
 En Montañas, Pipo puede moverse libremente hasta encontrarse con un personaje. Al interactuar, aparece un mensaje con botón que lleva a Ciudad, donde hay un juego de memoria. Tras completarlo, se accede a Mountain (similar a Montañas), y al interactuar, se pasa a Castle, donde Pipo finalmente alcanza a Lila. Esta acción lleva a la Escena Final, donde se muestra su reencuentro y un botón que permite regresar al Menú.
 
-![Esquema de navegación](esquema_de_navegacion_pipo.png)
+<img src="esquema_de_navegacion_pipo.png" alt="Esquema de navegación" width="300" />
 
 
 ## 3. Metodología
