@@ -37,7 +37,7 @@ Github: DanaSofia04
 
 Storyboard del juego:
 
-<img src="./copia_de_storyboard_pipo.png" alt="Storyboard" width="300" />
+<img src="./copia_de_storyboard_pipo.png" alt="Storyboard" width="600" />
 
 Comienza el juego en una pantalla con una animación y un botón de inicio, luego salta a la animación que da contexto al videojuego para terminar en el menú de opciones, en donde se despliega la galería de personajes,los créditos y el botón que da inicio al juego, que te lleva a un mapa donde puedes encontrar los distintos niveles, una vez terminado el juego, la ultima pestaña tiene un botón que te lleva de velta al menú principal.
 
