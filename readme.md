@@ -43,6 +43,39 @@ Comienza el juego en una pantalla con una animación y un botón de inicio, lueg
 
 ### 2.2 Esquema de navegación
 
+Inicio
+  ↓ (Botón → Intro)
+Intro1 → Intro2 → Intro3
+  ↓ (Automático)
+Menú
+  ├── Galería → (botón) → Menú
+  ├── Créditos → (botón) → Menú
+  └── Juego
+        ↓
+      Juego1
+        ↓ (Mover a la derecha)
+      Mapa
+        ↓ (Botón: Montañas)
+      Montañas
+        ↓ (Hablar con personaje → botón)
+      Ciudad (Juego de memoria)
+        ↓ (Al terminar → botón)
+      Mountain (igual que Montañas)
+        ↓ (Hablar con personaje → botón)
+      Castle
+        ↓ (Pipo alcanza a Lila → botón)
+      EscenaFinal → (Botón) → Menú
+
+Explicación del funcionamiento
+El juego comienza en la escena Inicio, que contiene una animación timeline y un botón que lleva al jugador a la introducción compuesta por tres escenas consecutivas (intro1, intro2, intro3) que se reproducen automáticamente. Al terminar, el jugador accede al Menú principal, donde se encontrará tres opciones:
+
+Galería: muestra los personajes y un video relacionado. Tiene un botón para volver al menú y otros para controlar la pista de audio.
+Créditos: despliega los créditos con una animación. También tiene botón para regresar y los que controlan el audio.
+Juego: inicia la aventura.
+Desde el Menú, al iniciar el juego, se entra a la escena Juego1, donde el jugador controla a Pipo y debe desplazarse hacia la derecha para acceder al Mapa. Allí, puede elegir el primer nivel (Montañas) mediante un botón.
+
+En Montañas, Pipo puede moverse libremente hasta encontrarse con un personaje. Al interactuar, aparece un mensaje con botón que lleva a Ciudad, donde hay un juego de memoria. Tras completarlo, se accede a Mountain (similar a Montañas), y al interactuar, se pasa a Castle, donde Pipo finalmente alcanza a Lila. Esta acción lleva a la Escena Final, donde se muestra su reencuentro y un botón que permite regresar al Menú.
+
 (Coloca aquí una imagen o diagrama con las pantallas y la navegación entre ellas. Puedes usar draw.io para hacerlo)
 
 
