@@ -1,146 +1,111 @@
-## (Nombre del proyecto)
+# La aventura de Pipo: Rescate en los mundos mágicos
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Universidad de Granada
 
 
+## 1. Datos
 
-# 1 Datos 
+**Título:** La aventura de Pipo: Rescate en los mundos mágicos
 
+**Web:** https://dana-sofia.itch.io/la-aventura-de-pipo2
 
+**Autor:** Dana Sofía Sánchez Aranda
 
-**Titulo** : MI Proyecto(nombre)
+**Resumen:**  
+Pipo es un pequeño monstruo que disfruta de la vida junto a su mejor amiga Lila, hasta que un día el malvado villano Egon desea robar la felicidad de ambos, llevándose a Lila a su castillo en llamas. Tu misión es descifrar los niveles del juego para poder rescatar a Lila. ¡Mucha suerte!
 
-**Web:**   (url github.io)
+**Estilo/género:** Juego de aventura / puzzle
 
-**Autor:**  (Nombre apellidos)
+**Logotipo:** (si tienes, inserta aquí la imagen y breve justificación)
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resolución:** 800x600px tamaño fijo, reescalable
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Probado en:** Godot Engine 4, Windows 10, Ubuntu 22.04, Google Chrome.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Tamaño proyecto:** 57.1 MB
 
-(insertar imágenes a resolucion de 100px alto)
+**Licencia:** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Fecha:** 27/05/2025
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Medios (donde se tiene presencia relacionada):**  
+Github: DanaSofia04
 
-**Tamaño proyecto:** 14MB 
+## 2. Memoria del proyecto
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+### 2.1 Storyboard
 
-**Fecha** : 14/05/2020
+Aquí tienes el storyboard del juego:
 
-**Medios** (donde se tiene presencia relacionada):
+![Storyboard](./copia_de_storyboard_pipo.png)
 
-- Github:
-- Twitter
-- Instagram
+Comienza el juego en una pantalla con una animación y un botón de inicio, luego salta a la animación que da contexto al videojuego para terminar en el menú de opciones, en donde se despliega la galería de personajes,los créditos y el botón que da inicio al juego, que te lleva a un mapa donde puedes encontrar los distintos niveles, una vez terminado el juego, la ultima pestaña tiene un botón que te lleva de velta al menú principal.
 
+### 2.2 Esquema de navegación
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+(Coloca aquí una imagen o diagrama con las pantallas y la navegación entre ellas. Puedes usar draw.io para hacerlo)
 
-# 2. Memoria del proyecto 
 
-### 2.1 Storyboard: 
+## 3. Metodología
 
+Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience):
 
+**Etapa 1: Ideación de proyecto**  
+Investigación de campo: 
+No realicé como tal una investigación formal. Cuando supe que tenía que idear un juego, vinieron a mi mente todos esos videojuegos que jugaba de pequeña en el iPod de mis hermanos. En concreto, "Cut the Rope", que trata sobre un pequeño mosntruo verde que al que tienes que darle un caramelo para alimentarlo. Inspirada en esa estética, comencé a diseñar mis propios personajes.
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Para lograr la apariencia visual que quería, también tomé como referencia "Super Mario 64", al que solía ver jugar a mis hermanos en su consola Nintendo. Usando un estilo de arte en 8 bits para darle al juego ese aire nostálgico, similar al de esos videojuegos clásicos.
 
+En cuanto a la historia, inicialmente pensé en una búsqueda del tesoro, pero luego transformé esa idea en el secuestro de Lila, como si ella fuera el "tesoro" que debe ser encontrado y rescatado dentro del juego.
 
+En conclusión, no seguí un proceso de investigación estructurado; más bien, este proyecto nació directamente de mis experiencias personales y recuerdos de infancia.
 
-### 2.2. Esquema de navegación 
+**Motivación de la propuesta:**  
+Este proyecto es interesante porque aborda temas de amistad, aventura y superación en un entorno sano para todas las edades y accesible a cualquier persona que cuente con un ordenador.
 
+**Público / audiencia:**  
+Orientado a jóvenes y niños que disfrutan de juegos de aventura y puzzle.
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+**Etapa 2: Desarrollo / actividades realizadas**  
+- Creación del juego en Godot 4  
+- Diseño de niveles y puzzles  
+- Programación de mecánicas básicas de movimiento e interacción  
+- Implementación de menús y elementos de navegación (botones e instrucciones)
+- Implementación de sonido y video
 
 
+**Etapa 3: Problemas identificados**  
+- Algunas mecánicas requieren ajuste para mejorar la jugabilidad  
+- Optimización del tamaño del proyecto para menor tiempo de carga
+- Es un poco confuso ya que hay más niveles de los que debería.
 
 
+## 4. Conclusiones
 
+Este proyecto ha sido una experiencia muy significativa a nivel personal y creativo. Me permitió aprender a usar Godot para desarrollar un videojuego desde cero, que claramente aún no domino del todo bien pero no me cierro a la posibilidad de incorporarlo en futuros proyectos. A lo largo del proceso, me encontré con muchas complicaciones, técnicas y narrativas, y aunque el resultado no es perfecto, me siento orgullosa del universo que logré construir.
 
 
-# 3. Metodología
+## 5. Referencias
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+**Artículos y blogs:**  
+Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business models. *First Monday*, 10(9). https://doi.org/10.5210/fm.v10i9.1273.
 
+**Recursos y materiales audiovisuales:**  
+- Música: (indicar si usaste o crearás)  
+- Imágenes: (indicar si usaste)  
+- Tipografía: (indicar si usaste)  
+- Herramientas utilizadas: Godot Engine 4, Draw.io, editor de texto Markdown
 
 
-### Etapa 1: Ideación de proyecto
+**Licencia:**  
+![Licencia CC BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)  
+Este proyecto está bajo Licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional (CC BY-SA 4.0).  
+https://creativecommons.org/licenses/by-sa/4.0/
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+**Fecha:** 27/05/25
 
 
+¡Gracias por jugar y por tu interés en "La aventura de Pipo"!
 
-**Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
-
-
-
-**Publico / audiencia**
-
-- Orientado a 
-
-
-
-
-
-### Etapa 2: Desarrollo / actividades realizadas
-
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
-
-
-### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
-
-
-
-# 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
-
-
-# 5 Referencias 
-
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
-**Recursos y materiales audiovisuales:**
-
-* Musica:  
-* Imágenes:  
-* Tipografía
-
-**Herramientas utilizadas**
-
-- Hippani Animator 5.1
-- 
-
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2023
