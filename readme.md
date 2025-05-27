@@ -122,12 +122,12 @@ Este proyecto ha sido una experiencia muy significativa a nivel personal y creat
 ## 5. Referencias
 
 **Artículos y blogs:**  
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business models. *First Monday*, 10(9). https://doi.org/10.5210/fm.v10i9.1273.
+- Moshi Monsters. (2011, 11 de octubre). Moshi Moshi Moshi! Inspired by Badger Badger Badger [Video]. YouTube. https://youtu.be/S9rLfNghMNE
+-Fillari, A. (2024, 13 de agosto). Everything You Need to Know About Cut the Rope Daily. Netflix Tudum. https://www.netflix.com/tudum/articles/cut-the-rope-daily-mobile-game-news
 
 **Recursos y materiales audiovisuales:**  
-- Música: (indicar si usaste o crearás)  
-- Imágenes: (indicar si usaste)  
-- Tipografía: (indicar si usaste)  
+- Música: merx-market-song-33936.mp3 
+- Tipografía: Sixty Four Regular   
 - Herramientas utilizadas: Godot Engine 4, Draw.io, editor de texto Markdown
 
 
