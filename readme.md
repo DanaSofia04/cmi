@@ -35,7 +35,7 @@ Github: DanaSofia04
 
 ### 2.1 Storyboard
 
-Aquí tienes el storyboard del juego:
+Storyboard del juego:
 
 ![Storyboard](./copia_de_storyboard_pipo.png)
 
@@ -76,7 +76,7 @@ Desde el Menú, al iniciar el juego, se entra a la escena Juego1, donde el jugad
 
 En Montañas, Pipo puede moverse libremente hasta encontrarse con un personaje. Al interactuar, aparece un mensaje con botón que lleva a Ciudad, donde hay un juego de memoria. Tras completarlo, se accede a Mountain (similar a Montañas), y al interactuar, se pasa a Castle, donde Pipo finalmente alcanza a Lila. Esta acción lleva a la Escena Final, donde se muestra su reencuentro y un botón que permite regresar al Menú.
 
-(Coloca aquí una imagen o diagrama con las pantallas y la navegación entre ellas. Puedes usar draw.io para hacerlo)
+![Esquema de navegación](esquema_de_navegacion_pipo.png)
 
 
 ## 3. Metodología
