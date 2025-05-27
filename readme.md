@@ -16,10 +16,11 @@ Pipo es un pequeño monstruo que disfruta de la vida junto a su mejor amiga Lila
 
 **Estilo/género:** Juego de aventura / puzzle
 
-**Logotipo:** 
+**Logotipo:**
+
 ![Logotipo de Pipo](logo_pipo.gif)
 
-Un logo creado con todos los personajes de videojuego!
+Un logo creado con todos los personajes del videojuego!
 
 **Resolución:** 800x600px tamaño fijo, reescalable
 
