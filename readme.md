@@ -47,28 +47,7 @@ Comienza el juego en una pantalla con una animación y un botón de inicio, lueg
 
 ### 2.2 Esquema de navegación
 
-<pre> ``` Inicio
-↓ (Botón → Intro)
-Intro1 → Intro2 → Intro3
-↓ (Automático)
-Menú
-├── Galería → (botón) → Menú
-├── Créditos → (botón) → Menú
-└── Juego
-↓
-Juego1
-↓ (Mover a la derecha)
-Mapa
-↓ (Botón: Montañas)
-Montañas
-↓ (Hablar con personaje → botón)
-Ciudad (Juego de memoria)
-↓ (Al terminar → botón)
-Mountain (igual que Montañas)
-↓ (Hablar con personaje → botón)
-Castle
-↓ (Pipo alcanza a Lila → botón)
-EscenaFinal → (Botón) → Menú <pre> ```
+<pre> ``` Inicio ↓ (Botón → Intro) Intro1 → Intro2 → Intro3 ↓ (Automático) Menú ├── Galería → (botón) → Menú ├── Créditos → (botón) → Menú └── Juego ↓ Juego1 ↓ (Mover a la derecha) Mapa ↓ (Botón: Montañas) Montañas ↓ (Hablar con personaje → botón) Ciudad (Juego de memoria) ↓ (Al terminar → botón) Mountain (igual que Montañas) ↓ (Hablar con personaje → botón) Castle ↓ (Pipo alcanza a Lila → botón) EscenaFinal → (Botón) → Menú ``` </pre>
 
 Explicación del funcionamiento
 El juego comienza en la escena Inicio, que contiene una animación timeline y un botón que lleva al jugador a la introducción compuesta por tres escenas consecutivas (intro1, intro2, intro3) que se reproducen automáticamente. Al terminar, el jugador accede al Menú principal, donde se encontrará tres opciones:
