@@ -75,6 +75,7 @@ El juego comienza en la escena Inicio, que contiene una animación timeline y un
 
 Galería: muestra los personajes y un video relacionado. Tiene un botón para volver al menú y otros para controlar la pista de audio.
 Créditos: despliega los créditos con una animación. También tiene botón para regresar y los que controlan el audio.
+
 Juego: inicia la aventura.
 Desde el Menú, al iniciar el juego, se entra a la escena Juego1, donde el jugador controla a Pipo y debe desplazarse hacia la derecha para acceder al Mapa. Allí, puede elegir el primer nivel (Montañas) mediante un botón.
 
